@@ -1,0 +1,19 @@
+id,name,state,type,lat,lon,slope_angle,elevation_m
+L01,Sohra (Cherrapunji) Road,Meghalaya,road,25.2839,91.7362,38,1484
+L02,Mawsynram Village,Meghalaya,village,25.3000,91.5828,35,1400
+L03,Dima Hasao Rail Corridor,Assam,road,25.4500,93.0167,42,1200
+L04,Aizawl-Lunglei Highway,Mizoram,road,23.3400,92.7173,45,1100
+L05,Kohima Bypass,Nagaland,road,25.6751,94.1086,33,1444
+L06,Gangtok-Nathula Road,Sikkim,road,27.3389,88.6065,48,1650
+L07,Imphal-Ukhrul Road,Manipur,road,24.9700,94.3600,40,900
+L08,Itanagar Hill Slope,Arunachal Pradesh,village,27.0844,93.6053,44,700
+L09,Haflong Township,Assam,village,25.1667,93.0167,37,700
+L10,Shillong-Guwahati Highway (NH6),Meghalaya,road,25.5788,91.8933,36,1000
+L11,Champhai Border Road,Mizoram,road,23.4500,93.3300,41,1600
+L12,Ziro Valley Slope,Arunachal Pradesh,village,27.6000,93.8300,30,1500
+L13,Agartala Hill Fringe,Tripura,village,23.8315,91.2868,25,50
+L14,Dawki-Tamabil Road,Meghalaya,road,25.1833,92.0167,39,300
+L15,Tuensang District Road,Nagaland,road,26.2667,94.8333,43,1400
+L16,Silchar-Haflong Rail Line,Assam,road,24.8300,92.7900,34,200
+L17,Pelling Slope Zone,Sikkim,village,27.3000,88.2167,46,2100
+L18,Tamenglong Village,Manipur,village,24.9800,93.5000,44,900
