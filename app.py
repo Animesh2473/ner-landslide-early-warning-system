@@ -1,18 +1,3 @@
-"""
-NER Landslide Early Warning & Monitoring Platform
---------------------------------------------------
-A Streamlit prototype demonstrating an AI-powered real-time monitoring and
-early-warning system for landslide-prone zones across India's North Eastern
-Region (NER), built for the problem statement on climate-resilient disaster
-management.
-
-Run with:  streamlit run app.py
-
-All sensor/rainfall/historical data in this prototype is SYNTHETICALLY
-GENERATED for demonstration purposes (see modules/data_utils.py). Wiring
-this to real IMD rainfall APIs, satellite (SMAP) soil-moisture feeds, and
-IoT ground sensors is described in the "System Architecture" tab.
-"""
 
 import io
 import time
