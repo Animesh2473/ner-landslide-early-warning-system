@@ -4,8 +4,6 @@
 
 🚀 **Live Demo:** https://ner-landslide-ews.streamlit.app/
 
-💻 **GitHub Repository:** https://github.com/Animesh2473/ner-landslide-early-warning-system
-
 ---
 
 ## 📌 Overview
